@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <h1>Learn with me React</h1>
-      <p>This is subheadding</p>
+      <p>I love coding</p>
     </>
   );
 }
